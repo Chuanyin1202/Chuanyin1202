@@ -1,8 +1,4 @@
-<a href="https://github.com/Chuanyin1202">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=600&lines=Hey%2C+I'm+Alex+Huang+%F0%9F%91%8B;Full-stack+Developer+%7C+AI+Agent+Builder;Turning+ideas+into+autonomous+systems" alt="Typing SVG" />
-</a>
-
-### About Me
+## Hey, I'm Alex Huang
 
 Indie developer from **Taiwan**, building AI-powered tools and autonomous agent systems.  
 I like turning repetitive tasks into self-running pipelines and shipping side projects that solve real problems.
@@ -37,8 +33,8 @@ I like turning repetitive tasks into self-running pipelines and shipping side pr
 ### GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chuanyin1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuanyin1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chuanyin1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chuanyin1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Chuanyin1202&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />

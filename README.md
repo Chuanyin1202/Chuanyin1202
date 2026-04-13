@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chuanyin1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chuanyin1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chuanyin1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6&hide=html,css,jupyter%20notebook" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>

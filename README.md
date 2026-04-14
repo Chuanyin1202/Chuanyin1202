@@ -32,6 +32,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 
+### AI Usage
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Chuanyin1202/svg?compact=1)](https://tokscale.ai/u/Chuanyin1202)
+
 ### GitHub Stats
 
 <table>
